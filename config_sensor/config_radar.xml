@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<sensorParam>
+	<sensorType>radar</sensorType>
+	<dim>2</dim>
+	<sigmaR>50</sigmaR>
+	<sigmaAzim>0.01</sigmaAzim>
+	<sigmaElev>0.01</sigmaElev>
+	<xPos>0.0</xPos>
+	<yPos>0.0</yPos>
+	<zPos>0.0</zPos>
+	<latPos>0.0</latPos>
+	<lonPos>0.0</lonPos>
+	<altPos>0.0</altPos>
+</sensorParam>

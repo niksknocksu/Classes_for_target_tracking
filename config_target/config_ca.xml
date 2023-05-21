@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<MotionParam>
+	<model_type>CA</model_type>
+	<coord_dim>2</coord_dim>
+	<q_tilde>0.001</q_tilde>
+	
+	<x_initial_pos>0</x_initial_pos>
+	<y_initial_pos>0</y_initial_pos>
+	<z_initial_pos>0</z_initial_pos>
+	
+	<x_initial_vel>10</x_initial_vel>
+	<y_initial_vel>10</y_initial_vel>
+	<z_initial_vel>10</z_initial_vel>
+	
+	<x_initial_acc>5</x_initial_acc>
+	<y_initial_acc>5</y_initial_acc>
+	<z_initial_acc>5</z_initial_acc>
+	
+	<bear_initial>0</bear_initial>
+	<bear_rate_initial>0</bear_rate_initial>
+	<elev_initial>0</elev_initial>
+	<elev_rate_initial>0</elev_rate_initial>
+	
+	<sampling_time>1</sampling_time>
+	<simulation_time>120</simulation_time> <!--seconds><-->
+	
+	
+</MotionParam>
