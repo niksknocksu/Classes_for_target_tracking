@@ -9,15 +9,12 @@ The parameters like the measurement noise statistic, target initial location , s
 
 ## Existing models
 ### Targets : 
-  Nearly Constant Velocity (2D/3D).
-  
-  Nearly Constant Acceleration (2D/3D.
-  
-  Nearly Constant Bearing rate (non-Cartesian).
+  -Nearly Constant Velocity (2D/3D).
+  -Nearly Constant Acceleration (2D/3D).  
+  -Nearly Constant Bearing rate (non-Cartesian).
 
 ### Sensors : 
-  Radar (2D/3D).
-  
-  Bearings sensor (azimuth/ azimuth + elevation).
+  -Radar (2D/3D). 
+  -Bearings sensor (azimuth/ azimuth + elevation).
 
 See _MAIN_class_usage.m_ for a simple usage. 
